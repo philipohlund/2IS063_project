@@ -5,3 +5,4 @@ matplotlib
 mlxtend
 graphviz
 scikit-learn
+https://mybinder.org/v2/gh/philipohlund/2IS063_project/master
