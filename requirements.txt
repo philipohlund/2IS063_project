@@ -5,5 +5,4 @@ matplotlib
 mlxtend
 graphviz
 scikit-learn
-collections
 numpy
